@@ -1,0 +1,3 @@
+name: DemoPlugin
+package: package com.decker.DemoPlugin.Demo
+version: 0.0.1
